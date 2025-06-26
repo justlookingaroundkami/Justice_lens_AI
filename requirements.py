@@ -1,0 +1,3 @@
+streamlit
+streamlit-lottie
+gtts
